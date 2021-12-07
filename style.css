@@ -240,7 +240,7 @@ header .container{
 }
 .nutrition-type-block{
    padding-top: 50px;
-   background-color: #fff; 
+   background-color: #6fc27d; 
    grid-template-columns: repeat(auto-fit, minmax(33.3%, 1fr));
 }
 .nutrition-type-item{
